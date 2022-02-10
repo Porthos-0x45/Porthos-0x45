@@ -108,4 +108,4 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Porthos-0x45&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
 
 -----
-Credits: [7oSkaaa](https://github.com/7oSkaaa)
+Credits: [7oSkaaa](https://github.com/7oSkaaa) because i probably just stole all the Readme.md (I am going to change it in the close future)
