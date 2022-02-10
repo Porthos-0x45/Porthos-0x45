@@ -1,5 +1,4 @@
 <h1 align="center">Hello , I'm Porthos</h1>
-## 📊 Github Stats
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
