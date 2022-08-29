@@ -1,4 +1,4 @@
-<h1 align="center">Hello , I'm Porthos</h1>
+<h1 align="center">Hello , I'm Pixel</h1>
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
